@@ -29,7 +29,7 @@
     "node": ">0.4"
   },
   "dependencies": {
-    "libxmljs": "0.8.1"
+    "libxmljs": "0.13.0"
   },
   "devDependencies": {
     "coffee-script": "~1"
